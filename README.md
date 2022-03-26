@@ -14,3 +14,14 @@
 - le joueur peut alors à partir des nombres visibles essayer de déduire la position des bombes
 ![visuel3](visuel3.jpg)
 
+## Telechargement et utilisation : 
+1. depuis https://my.numworks.com/python/morabenji3 transferer les 4 scripts : 
+  -  game.py
+  -  bombe.py
+  -  chiffre.py
+  -  game.py
+
+vers votre calculatrice NumWorks
+(comment transferer les scripts vers la calculatrice ? https://www.numworks.com/fr/assistance/connexion/echange-script/)
+
+2. executer le programme game.py
