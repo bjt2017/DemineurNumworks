@@ -23,6 +23,6 @@
 
 vers votre calculatrice NumWorks
 
-💁‍♂️ comment transferer les scripts vers la calculatrice ? https://www.numworks.com/fr/assistance/connexion/echange-script/
+🤷‍♂️ comment transferer les scripts vers la calculatrice ? https://www.numworks.com/fr/assistance/connexion/echange-script/
 
 2. executer le programme game.py
