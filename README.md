@@ -19,7 +19,6 @@
   -  game.py
   -  bombe.py
   -  chiffre.py
-  -  game.py
 
 vers votre calculatrice NumWorks
 
